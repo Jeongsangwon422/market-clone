@@ -47,11 +47,11 @@ main {
 }
 
 .write-btn {
-  color: var(--button-primary);
+  color: white;
   position: fixed;
   bottom: 120px;
   right: 20px;
-  background-color: rgb(254, 111, 15);
+  background-color: var(--button-hover);
   padding: 10px 15px 10px 15px;
   border-radius: 25px;
   font-size: 15px;
